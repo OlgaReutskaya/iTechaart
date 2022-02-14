@@ -1,8 +1,0 @@
-we all live in the yellow submarine
-new_branch
-++++++++++++++++++++++++++++++++++++++++
-add some strings in master
-++++++++++++++new_branch
-master
-
-Did in github

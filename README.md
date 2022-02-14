@@ -1,2 +1,0 @@
-# iTechaart
-Demo
