@@ -1,4 +1,2 @@
 we all live in the yellow submarine
-
-add some strings in master
-++++++++++++++new_branch
+branch new_app

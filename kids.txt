@@ -1,3 +1,2 @@
 Sophia Lev
-+++++++++++
-+++++++++++------ commit from new_branch
+branch new_app
